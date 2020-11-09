@@ -1,0 +1,15 @@
+{
+    "name": "dave/carservice",
+    "description": "Test project for interview",
+    "authors": [
+        {
+            "name": "DavidVass",
+            "email": "vassdavid303@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "EmployeeService\\": "src/"
+      }
+    }
+}
